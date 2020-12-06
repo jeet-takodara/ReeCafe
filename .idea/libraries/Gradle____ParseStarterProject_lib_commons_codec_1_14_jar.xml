@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./ParseStarterProject/lib/commons-codec-1.14.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ParseStarterProject/lib/commons-codec-1.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
